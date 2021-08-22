@@ -1,0 +1,10 @@
+﻿  Square.cpp
+  app.cpp
+  frame.cpp
+  logic.cpp
+  Generating code
+  10 of 178 functions ( 5.6%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    15 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  wxl.vcxproj -> C:\Dev\wxl\x64\Release\wxl.exe
